@@ -7,6 +7,6 @@
     "parcel-reporter-clean-dist"
   ],
   "transformers": {
-    "*.hbs": ["@parcel/transformer-handlebars"]
+    "*.hbs": ["parcel-transformer-handlebars"]
   }
 }
